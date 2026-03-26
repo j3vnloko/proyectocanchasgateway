@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../../../../proyectocanchas/proyectocanchas/.vscode"
+		},
+		{
+			"path": "../../../../proyectocanchas/proyectocanchas/apireservas"
+		},
+		{
+			"path": "../../../../proyectocanchas/proyectocanchas/serviciocanchas"
+		},
+		{
+			"path": "../../../../proyectocanchas/proyectocanchas/servicioreservas"
+		},
+		{
+			"path": "../../.."
+		}
+	],
+	"settings": {
+		"java.compile.nullAnalysis.mode": "automatic"
+	}
+}
